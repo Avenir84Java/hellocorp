@@ -2,6 +2,8 @@ package fr.sofiane.moscatelli2.users;
 
 import javax.persistence.*;
 
+
+
 @Entity
 @Table
 public class users {
